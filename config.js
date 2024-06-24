@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Oki lun chồng yêu, Mãi yêu chồng  💒 💒 💒 ',
     mess: 'Anh cũng yêu vợ nhiều. Sinh nhật thật đáng nhớ ha 💞💞💞💞 ',
     messDesc: 'Tặng vợ yêu bánh nì, ước rùi thổi nến nha vợ 🎂🎂🎂',
-    btnAccept: 'Okiiiii lun chồng iu <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    btnAccept: 'Nhắn cho anh đi vợ, anh nhớ vợ quá đi',
+    messLink: 'https://www.facebook.com/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
