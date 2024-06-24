@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "Happy birthday vợ yêu dấu của anh 💝",
+    introTitle: 'Gửi vợ yêu của anh 💞',
+    introDesc: `When the sky falls,
+    I will always be here, right next to you 
+    ( Khi bầu trời đổ sập, anh sẽ luôn ở đây, ngay bên cạnh em)
+    Anh yêu vợ nhiều lắm 💝💝💝`,
+    btnIntro: '🫶🫶🫶🫶',
+    title: 'Vợ yêu sẽ luôn đồng hành cùng anh chứ vợ  💒🥰',
+    desc: 'One love one fulture 💏💏💏 ',
+    btnYes: 'Được luôn chồng yêu của em, em yêu chồng nhiều💋💋💋',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    question: 'Chúc vợ yêu sinh nhật thật vui vẻ nha, hạnh phúc và luôn tươi cười, tích cực cùng anh nha',
+    btnReply: 'Mình sẽ cùng nhau xây dựng ngôi nhà đầy tình yêu thương, hạnh phúc và sẻ chia nha 😘😘😘',
+    reply: 'Oki lun chồng yêu, Mãi yêu chồng  💒 💒 💒 ',
+    mess: 'Anh cũng yêu vợ nhiều. Sinh nhật thật đáng nhớ ha 💞💞💞💞 ',
+    messDesc: 'Tặng vợ yêu bánh nì, ước rùi thổi nến nha vợ 🎂🎂🎂',
+    btnAccept: 'Okiiiii lun chồng iu <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
